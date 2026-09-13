@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/mehraz-ali/Leetcode/tree/master/0507-perfect-number) |
+| [2427-number-of-common-factors](https://github.com/mehraz-ali/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/mehraz-ali/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mehraz-ali/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mehraz-ali/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mehraz-ali/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
