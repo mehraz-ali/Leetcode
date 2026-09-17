@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mehraz-ali/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
@@ -75,9 +77,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mehraz-ali/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
