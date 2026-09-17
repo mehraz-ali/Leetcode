@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
