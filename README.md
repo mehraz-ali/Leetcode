@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
+| [0441-arranging-coins](https://github.com/mehraz-ali/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mehraz-ali/Leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/mehraz-ali/Leetcode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/mehraz-ali/Leetcode/tree/master/1952-three-divisors) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/mehraz-ali/Leetcode/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
