@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/mehraz-ali/Leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/mehraz-ali/Leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/mehraz-ali/Leetcode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/mehraz-ali/Leetcode/tree/master/1952-three-divisors) |
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
