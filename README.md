@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mehraz-ali/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/mehraz-ali/Leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/mehraz-ali/Leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/mehraz-ali/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
