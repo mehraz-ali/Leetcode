@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mehraz-ali/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mehraz-ali/Leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehraz-ali/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mehraz-ali/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
