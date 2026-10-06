@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mehraz-ali/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/mehraz-ali/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
@@ -139,4 +140,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mehraz-ali/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
