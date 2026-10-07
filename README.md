@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mehraz-ali/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mehraz-ali/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mehraz-ali/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/mehraz-ali/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mehraz-ali/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/mehraz-ali/Leetcode/tree/master/1952-three-divisors) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mehraz-ali/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehraz-ali/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mehraz-ali/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/mehraz-ali/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mehraz-ali/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
