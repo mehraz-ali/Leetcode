@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/mehraz-ali/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mehraz-ali/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/mehraz-ali/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/mehraz-ali/Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mehraz-ali/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mehraz-ali/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mehraz-ali/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
+| [1903-largest-odd-number-in-string](https://github.com/mehraz-ali/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/mehraz-ali/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehraz-ali/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mehraz-ali/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
