@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mehraz-ali/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mehraz-ali/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1816-truncate-sentence](https://github.com/mehraz-ali/Leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/mehraz-ali/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/mehraz-ali/Leetcode/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/mehraz-ali/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/mehraz-ali/Leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mehraz-ali/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mehraz-ali/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
