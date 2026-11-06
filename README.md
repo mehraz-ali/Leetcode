@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/mehraz-ali/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mehraz-ali/Leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/mehraz-ali/Leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/mehraz-ali/Leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/mehraz-ali/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mehraz-ali/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mehraz-ali/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mehraz-ali/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mehraz-ali/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/mehraz-ali/Leetcode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/mehraz-ali/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehraz-ali/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mehraz-ali/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mehraz-ali/Leetcode/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mehraz-ali/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
